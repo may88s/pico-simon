@@ -1,4 +1,4 @@
-# pico-simon
+# pico-simon by Simon May.
 import utime, random
 import picodisplay as display
 
